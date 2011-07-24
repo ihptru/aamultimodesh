@@ -1,0 +1,4 @@
+Old Armagetron Advanced script with MutliMode support
+To start:
+
+tail -f -n0 -s 0.01 /path/to/ladderlog.txt | ./parse.sh | tee -a /path/to/cmds.txt
